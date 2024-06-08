@@ -48,7 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <body onload="updateInputs()">
     <div class="background">
         <div class="form-container">
-            <p>Assignment one</p>
+            <p>Assignment One</p>
             <h1>Multipurpose Calculator</h1>
             <form method="post">
                 <input type="number" name="num1" id="num1" placeholder="Enter first number" step="any" required>
